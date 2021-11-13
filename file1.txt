@@ -1,4 +1,3 @@
-test line up
 commit test
 456
 
@@ -6,3 +5,4 @@ commit test
 add line
 
 new branch line
+gui line
